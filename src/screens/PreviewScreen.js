@@ -55,8 +55,8 @@ const PreviewScreen = () => {
   // Mock fallbacks matching initial web assets
   const mockProducts = [
     { id: 'm1', name: 'Midnight Bloom Earrings', price: 125, image: '../../assets/bestseller-1.jpg', description: 'Exquisitely handcrafted earrings featuring a delicate floral pattern.' },
-    { id: 'm2', name: 'Ethereal Silver Chain', price: 210, image: '../../assets/best seller2.png', description: 'A timeless sterling silver chain that adds a touch of grace to any outfit.' },
-    { id: 'm3', name: 'Golden Aura Bracelet', price: 185, image: '../../assets/best seller-3.jpg', description: 'A sophisticated gold-plated bracelet designed for everyday elegance.' },
+    { id: 'm2', name: 'Ethereal Silver Chain', price: 210, image: '../../assets/bestseller2.png', description: 'A timeless sterling silver chain that adds a touch of grace to any outfit.' },
+    { id: 'm3', name: 'Golden Aura Bracelet', price: 185, image: '../../assets/bestseller3.jpg', description: 'A sophisticated gold-plated bracelet designed for everyday elegance.' },
   ];
 
   // Category fallback images matching initial web assets

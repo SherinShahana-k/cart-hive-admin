@@ -61,10 +61,10 @@ export const resolveStorefrontAsset = (imageSource) => {
       // Best Sellers
       case 'bestseller-1.jpg':
         return require('../assets/bestseller-1.jpg');
-      case 'best seller2.png':
-        return require('../assets/best seller2.png');
-      case 'best seller-3.jpg':
-        return require('../assets/best seller-3.jpg');
+      case 'bestseller2.png':
+        return require('../assets/bestseller2.png');
+      case 'bestseller3.jpg':
+        return require('../assets/bestseller3.jpg');
       case 'bestseller4.jpg':
         return require('../assets/bestseller4.jpg');
       case 'bestseller5.jpg':
